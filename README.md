@@ -1,2 +1,2 @@
 # microsoft-clone
-frontend clone of microsoft's login page
+Microsoft clone using tailwind CSS ( utility first CSS framework)
